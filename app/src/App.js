@@ -33,6 +33,8 @@ function App() {
             <a href="https://www.flaticon.com/free-icons/bishop" title="bishop icons">Bishop icons created by Victoruler - Flaticon</a>
             <a href="https://www.flaticon.com/free-icons/crown" title="crown icons">Queen icons created by Stockio - Flaticon</a>
             <a href="https://www.flaticon.com/free-icons/crown" title="crown icons">King icons created by Ayub Irawan - Flaticon</a> 
+
+            source: https://github.com/lathomas64/react-chess
         </div>
     );
 }
